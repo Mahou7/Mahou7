@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Nathã Cazelato
+# Nathã Cazelato
 **`Desenvolvedor FullStack`**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e programação desde 2022.
