@@ -1,12 +1,11 @@
 # 👩🏻‍💻 Nathã Cazelato
 **`Desenvolvedor FullStack`**
 
-I'm a Systems Analysis and Development student with a strong passion for software development since 2022.
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e programação desde 2022.
 
-💻 My main interests include Back-End Development, Cybersecurity, and building scalable, efficient applications. I also have experience with Full-Stack Development, allowing me to understand both server-side and client-side architectures.
+Tenho conhecimentos em Cybersegurança e Desenvolvimento Full Stack, com foco principal em Back-End, buscando criar aplicações escaláveis, seguras e eficientes.
 
-I enjoy learning new technologies, solving complex problems, and continuously improving my technical skills through personal projects and hands-on experience.
-
+Estou sempre em busca de novos desafios, aprimorando minhas habilidades por meio de estudos, projetos pessoais e da exploração de novas tecnologias.
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -67,15 +66,6 @@ I enjoy learning new technologies, solving complex problems, and continuously im
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 
 <img 
