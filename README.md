@@ -1,7 +1,7 @@
 # Nathã Cazelato
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e programação desde 2022.
+Sou estudante de Análise e Desenvolvimento de Sistemas e amante da tecnologia e programação desde 2022.
 
 Tenho conhecimentos em Cybersegurança e Desenvolvimento Full Stack, com foco principal em Back-End, buscando criar aplicações escaláveis, seguras e eficientes.
 
