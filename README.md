@@ -6,7 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e amante da tecnologia e
 Tenho conhecimentos em Cyber e Desenvolvimento Full Stack, com foco principal em Back-End, buscando criar aplicações escaláveis, seguras e eficientes.
 
 Estou sempre em busca de novos desafios, aprimorando minhas habilidades por meio de estudos, projetos pessoais e da exploração de novas tecnologias.
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
