@@ -55,12 +55,26 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<!-- ℹ️ Números reais puxados do perfil em 18/08/2026. Como é texto fixo (não uma imagem gerada na hora), atualize os valores de vez em quando editando o README. -->
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=Mahou7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Nathã Cazelato"/>
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahou7&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por Nathã Cazelato"/>
+| 📦 Repositórios | ⭐ Estrelas | 👥 Seguidores | 👣 Seguindo |
+|:---:|:---:|:---:|:---:|
+| **53** | **52** | **7** | **3** |
 
-</div>
+## 📈 Nível de experiência
+
+<!-- ✏️ TODO: esses percentuais são uma estimativa inicial que eu montei com base no seu stack — ajuste para refletir sua autoavaliação real. -->
+
+```text
+HTML        ███████████████████░ 95%
+CSS         ██████████████████░░ 90%
+JavaScript  ██████████████████░░ 90%
+React       ████████████████░░░░ 80%
+TypeScript  ███████████████░░░░░ 75%
+Python      █████████████░░░░░░░ 65%
+Next.js     ██████████████░░░░░░ 70%
+PHP         ████████████░░░░░░░░ 60%
+```
 
 ## 📫 Contato
 
