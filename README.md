@@ -1,8 +1,11 @@
 <div align="center">
 
-# Olá, eu sou o Nathã Cazelato 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=180&section=header&text=Nath%C3%A3%20Cazelato&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20FullStack%20%7C%20Cyber%20Security&descAlignY=58&descSize=18&reversal=true" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;Estudante+de+ADS;Entusiasta+de+Cyber+Security;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;Estudante+de+ADS;Entusiasta+de+Cyber+Security;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+
+![Perfil views](https://komarev.com/ghpvc/?username=Mahou7&color=b57bff&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es)
+![Seguidores](https://img.shields.io/github/followers/Mahou7?style=for-the-badge&color=b57bff&label=Seguidores&labelColor=181717)
 
 </div>
 
@@ -13,68 +16,46 @@
 - 🔐 Conhecimentos em **Cyber Security**
 - 🚀 Sempre em busca de novos desafios, aprimorando minhas habilidades através de estudos e projetos pessoais
 - 📚 Explorando constantemente novas tecnologias
+- 📍 Curitiba, Paraná
 
 <br/>
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Stack
 
-**Linguagens de Programação**
+<div align="center">
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<br clear="left"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,python,mysql,git,github,vscode,linux,docker&theme=dark" alt="Stack de tecnologias" />
+
+</div>
+
+<!-- ✏️ TODO: se você usa ferramentas específicas de Cyber Security (ex: wireshark, kali, burpsuite), me avise o nome exato pra eu adicionar aqui — o skillicons.dev tem suporte pra várias delas. -->
+
 <br/>
 
-**Frameworks & Bibliotecas**
+## 📊 Estatísticas & Atividade
 
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<br clear="left"/>
-<br/>
+<div align="center">
 
-**Banco de Dados**
+<img src="https://github-readme-stats.vercel.app/api?username=Mahou7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Estatísticas do GitHub"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=Mahou7&theme=tokyonight&hide_border=true" height="165" alt="Streak de contribuições"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahou7&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas"/>
 
-**Ferramentas & Ambiente**
+</div>
 
-<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<br clear="left"/>
-<br/>
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahou7&theme=tokyo-night&hide_border=true" width="95%" alt="Gráfico de atividade"/>
 
-<!-- ✏️ TODO: se você usa ferramentas específicas de Cyber Security (ex: Wireshark, Kali Linux, Burp Suite, Nmap), me avise que eu adiciono os ícones aqui em uma categoria própria. -->
+</div>
 
-## 📊 Estatísticas do GitHub
+## 🏆 Troféus
 
-<!-- ℹ️ Números reais puxados do perfil em 18/08/2026. Como é texto fixo (não uma imagem gerada na hora), atualize os valores de vez em quando editando o README. -->
+<div align="center">
 
-| 📦 Repositórios | ⭐ Estrelas | 👥 Seguidores | 👣 Seguindo |
-|:---:|:---:|:---:|:---:|
-| **53** | **52** | **7** | **3** |
+<img src="https://github-profile-trophy.vercel.app/?username=Mahou7&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus do GitHub"/>
 
-## 📈 Nível de experiência
-
-<!-- ✏️ TODO: esses percentuais são uma estimativa inicial que eu montei com base no seu stack — ajuste para refletir sua autoavaliação real. -->
-
-```text
-HTML        ███████████████████░ 95%
-CSS         ██████████████████░░ 90%
-JavaScript  ██████████████████░░ 90%
-React       ████████████████░░░░ 80%
-TypeScript  ███████████████░░░░░ 75%
-Python      █████████████░░░░░░░ 65%
-Next.js     ██████████████░░░░░░ 70%
-PHP         ████████████░░░░░░░░ 60%
-```
+</div>
 
 ## 📫 Contato
 
@@ -89,10 +70,4 @@ PHP         ████████████░░░░░░░░ 60%
 
 </div>
 
-<br/>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Mahou7&color=2EA3F7&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es+do+Perfil)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=100&section=footer" width="100%"/>
