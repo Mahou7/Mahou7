@@ -28,15 +28,6 @@
 
 <br/>
 
-## 📊 Estatísticas & Atividade
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mahou7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Estatísticas do GitHub"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Mahou7&theme=tokyonight&hide_border=true" height="165" alt="Streak de contribuições"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahou7&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas"/>
-
 </div>
 
 <div align="center">
