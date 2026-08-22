@@ -40,8 +40,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mahou7&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus do GitHub"/>
-
 </div>
 
 <!-- ✏️ TODO: troque os links abaixo pelos seus perfis reais (LinkedIn, Instagram, e-mail, portfólio etc.) -->
