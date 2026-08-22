@@ -4,16 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;Estudante+de+ADS;Entusiasta+de+Cyber+Security;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
-![Perfil views](https://komarev.com/ghpvc/?username=Mahou7&color=b57bff&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es)
-![Seguidores](https://img.shields.io/github/followers/Mahou7?style=for-the-badge&color=b57bff&label=Seguidores&labelColor=181717)
-
 </div>
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 Foco em **Desenvolvimento FullStack**, criando aplicações escaláveis, seguras e eficientes
-- 🔐 Conhecimentos em **Cyber Security**
 - 🚀 Sempre em busca de novos desafios, aprimorando minhas habilidades através de estudos e projetos pessoais
 - 📚 Explorando constantemente novas tecnologias
 - 📍 Curitiba, Paraná
@@ -56,8 +52,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Mahou7&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus do GitHub"/>
 
 </div>
-
-## 📫 Contato
 
 <!-- ✏️ TODO: troque os links abaixo pelos seus perfis reais (LinkedIn, Instagram, e-mail, portfólio etc.) -->
 
