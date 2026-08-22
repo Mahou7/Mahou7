@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=180&section=header&text=Nath%C3%A3%20Cazelato&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20FullStack%20%7C%20%20&descAlignY=58&descSize=18&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=180&section=header&text=Nath%C3%A3%20Cazelato&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20FullStack&descAlignY=58&descSize=18&reversal=true" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B57BFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;Estudante+de+ADS;Entusiasta+de+Cyber+Security;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
