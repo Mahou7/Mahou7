@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,python,mysql,git,github,vscode,linux,docker&theme=dark" alt="Stack de tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,python,mysql,github,vscode&theme=dark" alt="Stack de tecnologias" />
 
 </div>
 
